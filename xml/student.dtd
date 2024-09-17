@@ -1,0 +1,50 @@
+<!ELEMENT students (students+)>
+<!-- The root element 'students' multiple 'student' elements-->
+
+<!ELEMENT student (firstName, middleName?, lastName, preferredname?, studentID, email, phone, status, gpa, major, minor?, enrollmentStatus, adisor, intialEnrollment, gradautionDate)>
+<!-- Student elements contain fields (optional fields inlcude '?' after field name)-->
+
+<!ELEMENT firstName (#PCDATA)>
+<!-- required field that holds the students first name as character data (all fields hold character data as #pcdata)-->
+
+<!ELEMENT middleName (#PCDATA)>
+<!-- optional field that holds the students second name-->
+
+<!ELEMENT lastName (#PCDATA)>
+<!-- required field that stores students last-->
+
+<!ELEMENT preferredName (#PCDATA)>
+<!-- optional field-->
+
+<!ELEMENT studentID (#PCDATA)>
+<!-- required field that holds student id-->
+
+<!ELEMENT email (#PCDATA)>
+<!-- required field that holds email adress-->
+
+<!ELEMENT phone (#PCDATA)>
+<!-- required field that holds phone number-->
+
+<!ELEMENT status (#PCDATA)>
+<!-- required field that holds student's academic year -->
+
+<!ELEMENT gpa (#PCDATA)>
+<!-- required field that holds student's gpa grade-->
+
+<!ELEMENT major (#PCDATA)>
+<!-- required field that holds student's major-->
+
+<!ELEMENT minor (#PCDATA)>
+<!-- optional field that holds student's minor if applicable -->
+
+<!ELEMENT enrollmentStatus (#PCDATA)>
+<!-- required field that indicates student's enrollment commitment eg: full-time-->
+
+<!ELEMENT advisor (#PCDATA)>
+<!-- required field that indicates student's -->
+
+<!ELEMENT initialEnrollment (#PCDATA)>
+<!-- required field that holds date of initial enrollment-->
+
+<!ELEMENT graduationDate (#PCDATA)>
+<!-- required field that holds date of graduation-->
