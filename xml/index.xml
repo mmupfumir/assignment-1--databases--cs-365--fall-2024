@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <firstName>Gordon</firstName>
+    <middleName>Matthew</middleName>
+    <lastName>Sumner</lastName>
+    <preferredName>Sting</preferredName>
+    <studentID>1234567</studentID>
+    <email>sting@thepolice.com</email>
+    <phone>212.123.4567</phone>
+    <status>first year</status>
+    <gpa>4.0</gpa>
+    <major>Music</major>
+    <minor>English</minor>
+    <enrollmentStatus>full-time</enrollmentStatus>
+    <advisor>Andy Summers</advisor>
+    <initialEnrollment>1969-08-25</initialEnrollment>
+    <graduationDate>1973-05-01</graduationDate>
+  </student>
+
+  <student>
+    <firstName>Kim</firstName>
+    <lastName>Thayil</lastName>
+    <preferredName></preferredName>
+    <studentID>4567890</studentID>
+    <email>kim@soundgarden.com</email>
+    <phone>206.123.4567</phone>
+    <status>second year</status>
+    <gpa>3.0</gpa>
+    <major>Philosophy</major>
+    <minor>Music</minor>
+    <enrollmentStatus>full-time</enrollmentStatus>
+    <advisor>Chris Cornell</advisor>
+    <initialEnrollment>1978-08-25</initialEnrollment>
+    <graduationDate>1982-05-01</graduationDate>
+  </student>
+
+  <student>
+    <firstName>Saul</firstName>
+    <lastName>Hudson</lastName>
+    <preferredName>Slash</preferredName>
+    <studentID>8302438</studentID>
+    <email>slash@gnr.com</email>
+    <phone>213.456.8392</phone>
+    <status>fourth year</status>
+    <gpa>2.0</gpa>
+    <major>Music</major>
+    <minor>Criminal Justice</minor>
+    <enrollmentStatus>part-time</enrollmentStatus>
+    <advisor>Axl Rose</advisor>
+    <initialEnrollment>1983-08-25</initialEnrollment>
+    <graduationDate>1987-05-01</graduationDate>
+  </student>
+
+  <student>
+    <firstName>Emily</firstName>
+    <lastName>Kokal</lastName>
+    <preferredName></preferredName>
+    <studentID>2983928</studentID>
+    <email>emily@warpaint.com</email>
+    <phone>213.123.7654</phone>
+    <status>third year</status>
+    <gpa>3.8</gpa>
+    <major>Political Science</major>
+    <minor>Law</minor>
+    <enrollmentStatus>full-time</enrollmentStatus>
+    <advisor>Jenny Lee Lindberg</advisor>
+    <initialEnrollment>1998-08-25</initialEnrollment>
+    <graduationDate>2002-05-01</graduationDate>
+  </student>
+
+  <student>
+    <firstName>Mike</firstName>
+    <lastName>Inez</lastName>
+    <preferredName></preferredName>
+    <studentID>7645726</studentID>
+    <email>mike@aic.com</email>
+    <phone>213.444.3323</phone>
+    <status>second year</status>
+    <gpa>4.0</gpa>
+    <major>Business Management</major>
+    <minor>Math</minor>
+    <enrollmentStatus>full-time</enrollmentStatus>
+    <advisor>Jerry Cantrell</advisor>
+    <initialEnrollment>1984-08-25</initialEnrollment>
+    <graduationDate>1988-05-01</graduationDate>
+  </student>
+</students>
