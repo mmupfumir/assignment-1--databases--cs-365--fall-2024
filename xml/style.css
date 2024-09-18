@@ -1,0 +1,18 @@
+student
+{
+  font-weight: bold;
+  content: "Full Name: " attr(firstName) " " attr(middleName) " " attr(lastName);
+  font-weight: normal;
+  content: "Preferred Name: " attr(preferredName);
+  content: "Student ID: " attr(studentID);
+  content: "Email: " attr(email);
+  content: "Phone: " attr(phone);
+  content: "Status: " attr(status);
+  content: "GPA: " attr(gpa);
+  content: "Major: " attr(major);
+  content: "Minor: " attr(minor);
+  content: "Enrollment Status: " attr(enrollmentStatus);
+  content: "Advisor: " attr(advisor);
+  content: "Initial Enrollment: " attr(initialEnrollment);
+  content: "Graduation Date: " attr(graduationDate);
+}

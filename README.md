@@ -1,4 +1,4 @@
-# Fall 2024 Principles of Databases — Assignment 1
+˚# Fall 2024 Principles of Databases — Assignment 1
 
 * **Read these instructions repeatedly until you understand, then begin your project. If something is not clear, ask.**
 
