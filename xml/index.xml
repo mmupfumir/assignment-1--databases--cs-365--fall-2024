@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
 <students>
   <student>
     <firstName>Gordon</firstName>
@@ -21,7 +22,6 @@
   <student>
     <firstName>Kim</firstName>
     <lastName>Thayil</lastName>
-    <preferredName></preferredName>
     <studentID>4567890</studentID>
     <email>kim@soundgarden.com</email>
     <phone>206.123.4567</phone>
@@ -55,7 +55,6 @@
   <student>
     <firstName>Emily</firstName>
     <lastName>Kokal</lastName>
-    <preferredName></preferredName>
     <studentID>2983928</studentID>
     <email>emily@warpaint.com</email>
     <phone>213.123.7654</phone>
@@ -72,7 +71,6 @@
   <student>
     <firstName>Mike</firstName>
     <lastName>Inez</lastName>
-    <preferredName></preferredName>
     <studentID>7645726</studentID>
     <email>mike@aic.com</email>
     <phone>213.444.3323</phone>
